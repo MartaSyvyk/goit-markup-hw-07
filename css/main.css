@@ -1047,12 +1047,4 @@ img {
 .modal-close__icon {
   width: 11px;
   height: 11px;
-}
-
-body {
-  font-family: var(--main-font), sans-serif;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 1.71;
-  color: var(--text-color);
 }/*# sourceMappingURL=main.css.map */
